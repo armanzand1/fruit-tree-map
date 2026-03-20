@@ -32,6 +32,13 @@ border:none;
 <h1>Public Fruit Tree Map</h1>
 
 <p>Community map of publicly accessible fruit trees.</p>
+<div style="margin:15px;">
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=11sHwMPYBX-T3l5ueNSub7386vMiHfFI"
+   target="_blank"
+   style="background:#2E7D32; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; font-weight:bold;">
+   Open in Google Maps
+</a>
+</div>
 
 <div class="map-container">
 
